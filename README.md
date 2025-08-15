@@ -88,17 +88,3 @@ The focus of this project is to:
   - NumPy
 
 ---
-
-## 🚀 How to Run
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/malik8154/AICP-Internship-Week5-Instagram-EDA.git
-   cd AICP-Internship-Week5-Instagram-EDA
-
-2. Install Dependencies
-
-pip install pandas plotly wordcloud numpy
-
-3. Run Script
-
-python week5_instagram_eda.py
